@@ -13,5 +13,5 @@ Inside the Box is a simple sidescroller game with a stick figure that has to get
 + make a level change when the hero reaches the door
 + build levels
 
-
-
+## Wireframe
+![alt text](/assets/images/wireframe.jpg "Wireframe")
